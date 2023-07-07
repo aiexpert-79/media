@@ -1,0 +1,24 @@
+# Automatic versioning
+/madam/_version.py
+
+# coverage
+.coverage
+
+# py.test
+__pycache__/
+.cache/
+
+# setuptools
+.eggs/
+build/
+dist/
+*.egg-info/
+
+# Sphinx
+doc/_build/
+
+# tox
+.tox/
+
+# virtualenv
+venv/

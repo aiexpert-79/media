@@ -1,0 +1,7 @@
+exclude .git*
+exclude .coveragerc
+exclude pytest.ini
+exclude tox.ini
+recursive-exclude .github *
+recursive-exclude doc *
+recursive-exclude tests *
