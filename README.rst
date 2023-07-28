@@ -2,18 +2,6 @@ MADAM
 #####
 
 Multimedia Advanced Digital Asset Management
-
-|ci-badge|_ |codecov-badge|_ |pypi-badge|_ |readthedocs-badge|_
-
-.. |ci-badge| image:: https://github.com/eseifert/madam/actions/workflows/ci.yml/badge.svg?
-.. _ci-badge: https://github.com/eseifert/madam/actions/workflows/ci.yml
-.. |codecov-badge| image:: https://codecov.io/gh/eseifert/madam/branch/master/graph/badge.svg?token=x0aF4xnSz5
-.. _codecov-badge: https://codecov.io/gh/eseifert/madam
-.. |pypi-badge| image:: https://img.shields.io/pypi/v/madam.svg?
-.. _pypi-badge: https://pypi.python.org/pypi/MADAM
-.. |readthedocs-badge| image:: https://readthedocs.org/projects/madam/badge/?version=latest
-.. _readthedocs-badge: https://madam.readthedocs.io/en/latest/?badge=latest
-
 MADAM is a digital asset management library. It aims to facilitate the handling
 of image, audio, and video files by helping out with several tasks, like
 storing, organizing, and transforming asset data.
